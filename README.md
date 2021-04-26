@@ -1,4 +1,4 @@
-# Bank_vitualATM_python_mini_project
+# Bank_virtual_ATM_python_mini_project
 
 This is a basic python mini project done in 1st semester, B.Tech PES University. CUI (Character User Interface) based design.
 Uses concepts like files, modules, exception handling, loops, etc.
